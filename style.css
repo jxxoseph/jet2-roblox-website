@@ -3,13 +3,13 @@
 }
 
 @font-face {
-    font-family: Gotham-Bold;
-    src: url(fonts/Gotham/Gotham-Bold.otf);
+    font-family: GothamBold;
+    src: url(fonts/Gotham/GothamBold.ttf);
   }
 
 h1{
     color: white;
-    font-family: Gotham-Bold;
+    font-family: GothamBold;
     text-align: center;
     margin-top: 455px;
     margin-bottom: 455px;
